@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - voila
+  - appmode
   - python=3.10
   - matplotlib
   - numpy
