@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - appmode
   - python=3.10
   - matplotlib
   - numpy
   - ipywidgets
   - notebook
   - ipyvolume
-  - appmode
