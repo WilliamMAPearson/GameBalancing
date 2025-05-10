@@ -8,3 +8,5 @@ dependencies:
   - numpy
   - ipywidgets
   - notebook
+  - ipyvolume
+  - appmode
