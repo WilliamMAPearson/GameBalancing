@@ -1,3 +1,3 @@
 # GameBalancing
 
-[![Binder](https://mybinder.org/badge.svg)](https://hub.2i2c.mybinder.org/user/williammapearson-gamebalancing-4qexijrw/voila/render/GameBalancing.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WilliamMAPearson/GameBalancing/main?urlpath=voila%2Frender%2Findex.ipynb)
