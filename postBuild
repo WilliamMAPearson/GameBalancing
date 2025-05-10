@@ -1,3 +1,4 @@
 #!/bin/bash
-
-python -c "import ipyvolume; ipyvolume.datasets.aquariusA2.fetch()"
+jupyter nbextension install --sys-prefix --py appmode
+jupyter nbextension enable --sys-prefix --py appmode
+jupyter serverextension enable --sys-prefix --py appmode
